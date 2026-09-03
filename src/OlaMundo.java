@@ -11,5 +11,6 @@ public class OlaMundo {
         System.out.println("A letra escolhida é " + letra);
         System.out.println("Minha universidade é a " + universidade);
         System.out.println("Matriculado em SI: " + matriculado);
+	System.out.println("Teste com o Bluefin");
     }
 }
